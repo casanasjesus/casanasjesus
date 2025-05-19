@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Jesús Casañas
 
-<!--
-**casanasjesus/casanasjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you’ll find my projects, experiments, and contributions focused on web and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tech Stack
+
+## 🖥️ Frontend  
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- 💅 **Sass**  
+- 🌈 **Tailwind CSS**  
+- 🟦 **Material UI**  
+- 🟨 **JavaScript**  
+- 🟦 **TypeScript**  
+- ⚛️ **React**  
+- 💠 **Next.js**  
+- 🅰️ **Angular** *(learning)*
+
+## 🛠️ Backend  
+- 🟩 **Node.js**  
+- 🚂 **Express.js**
+- 🐍 **Python** *(learning)*
+
+## 🗄️ Databases  
+- 🟦 **SQL**  
+- 🍃 **MongoDB**
+
+## 🔧 Version Control Tools  
+- 🐙 **Git**
+
+## 🖱️ Additional Platforms and Frameworks  
+- 🧩 **Veritran Framework (C++)**  
+- 🟪 **Low Code Veritran Platform**
+
+---
+
+## 📫 Contact
+
+If you want to get in touch with me or collaborate on a project, feel free to write me at:
+
+- ✉️ **casanasjesus97@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-casa%C3%B1as-485a86197/)
+
+---
+
+_Thanks for visiting my profile. Contributions, issues, and suggestions are always welcome!_
