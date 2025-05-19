@@ -41,7 +41,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, experiments, and c
 
 If you want to get in touch with me or collaborate on a project, feel free to write me at:
 
-- ✉️ **casanasjesus97@gmail.com**
+- ✉️ **casanasjesus97@gmail.com** or **jesusenrique9773@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-casa%C3%B1as-485a86197/)
 
 ---
