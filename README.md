@@ -7,32 +7,32 @@ Welcome to my GitHub profile! Here you’ll find my projects, experiments, and c
 # 🚀 Tech Stack
 
 ## 🖥️ Frontend  
-- 🌐 **HTML5**  
-- 🎨 **CSS3**  
-- 💅 **Sass**  
-- 🌈 **Tailwind CSS**  
-- 🟦 **Material UI**  
-- 🟨 **JavaScript**  
-- 🟦 **TypeScript**  
-- ⚛️ **React**  
-- 💠 **Next.js**  
-- 🅰️ **Angular** *(learning)*
+- **HTML5**  
+- **CSS3**  
+- **Sass**  
+- **Tailwind CSS**  
+- **Material UI**  
+- **JavaScript**  
+- **TypeScript**  
+- **React**  
+- **Next.js**  
+- **Angular** *(learning)*
 
 ## 🛠️ Backend  
-- 🟩 **Node.js**  
-- 🚂 **Express.js**
-- 🐍 **Python** *(learning)*
+- **Node.js**  
+- **Express.js**
+- **Python** *(learning)*
 
 ## 🗄️ Databases  
-- 🟦 **SQL**  
-- 🍃 **MongoDB**
+- **SQL**  
+- **MongoDB**
 
 ## 🔧 Version Control Tools  
-- 🐙 **Git**
+- **Git**
 
 ## 🖱️ Additional Platforms and Frameworks  
-- 🧩 **Veritran Framework (C++)**  
-- 🟪 **Low Code Veritran Platform**
+- **Veritran Framework (C++)**  
+- **Low Code Veritran Platform**
 
 ---
 
