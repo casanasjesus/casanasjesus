@@ -17,6 +17,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, experiments, and c
 - **React**  
 - **Next.js**  
 - **Angular** *(learning)*
+- **Kotlin** *(learning)*
 
 ## 🛠️ Backend  
 - **Node.js**  
